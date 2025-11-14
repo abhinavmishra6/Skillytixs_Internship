@@ -1,4 +1,4 @@
-# **Task 1: Data Cleaning & Preprocessing **
+# **Task 1: Data Cleaning & Preprocessing**
 
 ## **Overview**
 
@@ -54,7 +54,8 @@ This task involved cleaning and preprocessing the **Customer Personality Analysi
 - **task1.py** (Python script for data cleaning)
 - **marketing_campaign.csv** (raw dataset)
 - **cleaned_marketing_campaign.csv** (cleaned dataset)
-- **README.md** (this file)
+- **README.md**
+- **Output Screenshot of python Script**
 
 ------
 
@@ -68,3 +69,4 @@ The final cleaned dataset is now:
 - Consistent in text, dates, and column names
 
 - Ready for further analysis or modeling
+
