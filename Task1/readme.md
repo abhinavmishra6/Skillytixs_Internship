@@ -1,5 +1,3 @@
-# **README**
-
 # **Task 1: Data Cleaning & Preprocessing **
 
 ## **Overview**
@@ -68,4 +66,5 @@ The final cleaned dataset is now:
 - Duplicates removed
 - Properly formatted
 - Consistent in text, dates, and column names
+
 - Ready for further analysis or modeling
