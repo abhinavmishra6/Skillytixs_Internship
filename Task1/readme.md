@@ -45,7 +45,6 @@ This task involved cleaning and preprocessing the **Customer Personality Analysi
 
 - Saved the cleaned dataset as
    **`cleaned_marketing_campaign.csv`**
-   using `sep="\t"` (tab-separated).
 
 ------
 
@@ -69,5 +68,6 @@ The final cleaned dataset is now:
 - Consistent in text, dates, and column names
 
 - Ready for further analysis or modeling
+
 
 
