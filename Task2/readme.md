@@ -27,10 +27,10 @@ The goal is to uncover key insights about survival patterns among passengers usi
 ## Repository Contents
 | File                  | Description                          |
 | --------------------- | ------------------------------------ |
-| `Task2.ipynb`         | Jupyter Notebook containing full EDA |
-| `Task2.pdf`           | PDF version of analysis              |
-| `README.md`           | Project documentation                |
-| `Titanic_Dataset.csv` | Dataset used                         |
+| `Titanic_Dataset.csv`         | Dataset used |
+| `Task2.ipynb`           | Jupyter Notebook               |
+| `Task2.pdf`           | PDF version of analysis               |
+| `README.md` | readme file                   |
 
 ## Tools & Libraries
 - Python, Pandas, NumPy
