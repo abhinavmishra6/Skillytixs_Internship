@@ -18,7 +18,7 @@ The goal is to uncover key insights about survival patterns among passengers usi
 - Correlation heatmap
 - Business insights and summary
 
-## 📊 Key Insights
+## Key Insights
 - Females had a significantly higher survival rate than males.
 - 1st class passengers survived more often than 2nd and 3rd class.
 - Higher ticket fare showed a positive association with survival.S
@@ -37,4 +37,5 @@ The goal is to uncover key insights about survival patterns among passengers usi
 - Matplotlib, Seaborn
 - Jupyter Notebook
 - MiKTeX + nbconvert (for PDF export)
+
 
