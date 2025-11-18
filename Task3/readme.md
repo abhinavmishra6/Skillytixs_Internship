@@ -1,8 +1,5 @@
 # Retail Orders Database – Querying Fundamentals
 
-## Overview
-Objective: practice fundamental SQL operations on a retail dataset (Superstore) to extract business insights using `SELECT`, `WHERE`, `ORDER BY`, `GROUP BY`, `JOIN`.
-
 ## Database & Table
 - **Database:** `retail_db`  
 - **Table:** `superstoredataset`
@@ -34,4 +31,5 @@ Objective: practice fundamental SQL operations on a retail dataset (Superstore) 
 | `SuperstoreDataset.csv` | Dataset used                        |
 | `Screenshots`           | Contains screenshots of SQL outputs |
 | `README.md`             | readme file                         |
+
 
