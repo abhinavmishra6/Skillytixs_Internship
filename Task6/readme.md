@@ -2,7 +2,7 @@
 
 ## **Overview**
 
-This project demonstrates how to build a simple **Sales Analysis Dashboard** using **Python, SQLite, Pandas, and Matplotlib**.
+This task demonstrates how to build a simple **Sales Analysis Dashboard** using **Python, SQLite, Pandas, and Matplotlib**.
  A small SQLite database (`sales_data.db`) is used, containing product-level sales transactions.
 
 The task showcases how to:
@@ -42,4 +42,5 @@ Products included:
 - A bar chart showing **Revenue by Product**
 
 - Auto-created **SQLite database file**
+
 
