@@ -14,7 +14,7 @@ The task showcases how to:
 
 ------
 
-## 📂 **Repository Contents**
+## **Repository Contents**
 
 | File            | Description                                     |
 | --------------- | ----------------------------------------------- |
@@ -40,8 +40,9 @@ The dataset is stored in an SQLite file (`sales_data.db`) with one table:
 Products included:
  Laptop, Mouse, USB Cable, Monitor, Keyboard, Printer, Tablet, Headset, SSD, HDD etc.
 
-## 📤 **Output Produced**
+## **Output Produced**
 
 - A clean **Sales Summary Table**
 - A bar chart showing **Revenue by Product**
+
 - Auto-created **SQLite database file**
