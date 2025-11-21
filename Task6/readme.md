@@ -12,8 +12,6 @@ The task showcases how to:
 - Generate a clean sales summary table
 - Visualize revenue using a bar chart
 
-------
-
 ## **Repository Contents**
 
 | File            | Description                                     |
@@ -21,8 +19,6 @@ The task showcases how to:
 | `sales_data.db` | SQLite database file containing the sales table |
 | `Task6.ipynb`   | Notebook for the analysis                       |
 | `README.md`     | Project description and instructions            |
-
-------
 
 ## **Dataset Structure**
 
@@ -46,3 +42,4 @@ Products included:
 - A bar chart showing **Revenue by Product**
 
 - Auto-created **SQLite database file**
+
