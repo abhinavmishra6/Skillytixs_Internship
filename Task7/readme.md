@@ -2,7 +2,7 @@
 
 ## **Overview**
 
-This project analyzes the **Superstore Dataset** to understand sales performance, customer behavior, product categories, and regional trends using **Power BI**.
+This task analyzes the **Superstore Dataset** to understand sales performance, customer behavior, product categories, and regional trends using **Power BI**.
 It demonstrates skills in **data cleaning**, **data modeling**, **DAX**, and **interactive visualization**.
 
 ## **Steps Performed**
@@ -61,4 +61,5 @@ A fully interactive Power BI dashboard enabling:
 - Sales trend analysis
 - Customer behavior understanding
 - Product performance review
+
 - Regional comparison
