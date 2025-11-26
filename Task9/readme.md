@@ -41,7 +41,6 @@ The dataset used contains order-level records with fields such as **order_id**, 
 - **MySQL / MySQL Workbench**
 - SQL Functions:
    `YEAR()`, `MONTH()`, `DATE_FORMAT()`, `SUM()`, `COUNT(DISTINCT ...)`, `GROUP BY`, `ORDER BY`
-- **Kaggle** e-commerce dataset
 
 ------
 
@@ -71,3 +70,4 @@ SQL aggregations were used to compute:
 - Average Revenue Per Order
 
 - Top 5 Revenue Months
+
