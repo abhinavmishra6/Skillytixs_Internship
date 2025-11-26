@@ -31,7 +31,7 @@ The dataset used contains order-level records with fields such as **order_id**, 
 | task9.sql                 | SQL script for revenue, order volume & trend analysis |
 | resultMonthlySales.csv    | results of monthly revenue & orders                   |
 | resultTop5Month.csv       | Highest revenue-generating months                     |
-| avg_revenue_per_order.csv | Calculated Average Revenue Per Order                  |
+| resultAvgRevenuePerOrder.csv | Calculated Average Revenue Per Order                  |
 | README.md                 | readme file                                           |
 
 ------
@@ -69,4 +69,5 @@ SQL aggregations were used to compute:
 - Monthly Revenue
 - Monthly Orders
 - Average Revenue Per Order
+
 - Top 5 Revenue Months
