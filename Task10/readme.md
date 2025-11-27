@@ -61,11 +61,11 @@ Performed cleaning inside Pandas:
 
 Performed on cleaned dataset:
 
-### **✔ Total Jobs Scraped**
+### **Total Jobs Scraped**
 
 **126 internships** scraped across 3 pages.
 
-### **✔ Top 5 Locations**
+### **Top 5 Locations**
 
 | Location        | Count |
 | --------------- | ----- |
@@ -75,7 +75,7 @@ Performed on cleaned dataset:
 | Mumbai          | 6     |
 | Pune (Balewadi) | 6     |
 
-### **✔ Top 10 Most In-Demand Skills**
+### **Top 10 Most In-Demand Skills**
 
 | Skill                         | Frequency |
 | ----------------------------- | --------- |
@@ -119,3 +119,4 @@ Performed on cleaned dataset:
 | `Task10.ipynb`                      | Jupyter Notebook with full scraping, cleaning, analysis & plots |
 | `internshala_data_analyst_jobs.csv` | Cleaned dataset                                                 |
 | `readme.md`                         | readme file                                                     |
+
