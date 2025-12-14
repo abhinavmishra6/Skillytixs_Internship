@@ -1,4 +1,4 @@
-# Skillytixs Internship – Final Projects
+# Skillytixs Internship – Final Project
 
 ## Overview
 
@@ -65,4 +65,5 @@ This ensured smooth collaboration and high-quality outcomes.
 - Hands-on experience with ML and analytics tools
 - Dashboard storytelling for business decisions
 - Team coordination and project management
+
 - Interview-ready project exposure
