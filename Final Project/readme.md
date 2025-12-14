@@ -9,7 +9,7 @@ The projects demonstrate:
 
 - Strong teamwork and role distribution
 - Real-world data handling
-- Analytical thinking and business storytelling
+- Analytical thinking
 - Industry-relevant tools and techniques
 
 ------
@@ -67,3 +67,4 @@ This ensured smooth collaboration and high-quality outcomes.
 - Team coordination and project management
 
 - Interview-ready project exposure
+
