@@ -43,6 +43,7 @@ Hospitals need early identification of patients at risk of chronic diseases. Thi
 
 - Python notebooks
 - SQL queries
+- SQL Tables
 - Power BI dashboard
 - Final strategy report
 
@@ -67,4 +68,5 @@ This ensured smooth collaboration and high-quality outcomes.
 - Team coordination and project management
 
 - Interview-ready project exposure
+
 
