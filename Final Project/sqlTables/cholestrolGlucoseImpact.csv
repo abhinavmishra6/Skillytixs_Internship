@@ -1,0 +1,10 @@
+Cholesterol,Glucose,Total_Patients,High_Risk_Count
+Normal,Normal,37004,14485
+Moderate,Normal,4815,2751
+Severe,Normal,2414,1941
+Severe,Severe,2039,1352
+Moderate,Moderate,1698,955
+Normal,Moderate,1663,849
+Normal,Severe,1014,420
+Severe,Moderate,282,227
+Moderate,Severe,244,148
